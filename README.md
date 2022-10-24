@@ -1,5 +1,15 @@
 ### Hi there 👋, my name is Fábio Braga
 
+<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86860928/197450332-f99d39a0-60b1-46ba-8d65-b4e447761ad0.gif">
+
+### :man_technologist: About Me:
+
+- 🔭 Currently working with JS/TS in the Back-End.
+- 🌱 I am currently studying Java, Html, CSS and React.
+- :man_student: Studying to be a computer engineer.
+
+
+##
 <div align="center">
   <a href="https://github.com/fabiotbraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiotbraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -25,12 +35,3 @@
   <a href="mailto:fabiotbraga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
-### :man_technologist: About Me:
-
-- 🔭 Currently working with JS/TS in the Back-End.
-- 🌱 I am currently studying Java, Html, CSS and React.
-- :man_student: Studying to be a computer engineer.
-
-##
