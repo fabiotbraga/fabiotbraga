@@ -26,6 +26,8 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+  ![Snake animation](https://github.com/fabiotbraga/fabiotbraga/blob/output/github-contribution-grid-snake.svg)
 
 ##
 ### :e-mail: Contact & Social Networks:
