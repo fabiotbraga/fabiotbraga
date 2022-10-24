@@ -14,6 +14,7 @@
   <a href="https://github.com/fabiotbraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiotbraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiotbraga&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github.com/fabiotbraga/fabiotbraga/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ##
@@ -26,8 +27,6 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  ![Snake animation](https://github.com/fabiotbraga/fabiotbraga/blob/output/github-contribution-grid-snake.svg)
 
 ##
 ### :e-mail: Contact & Social Networks:
