@@ -5,7 +5,7 @@
 ### :man_technologist: About Me:
 
 - 🔭 Currently working with JS/TS in the Back-End.
-- 🌱 I am currently studying Java, Html, CSS and React.
+- 🌱 I am currently studying C#, .NET, Html, CSS and React.
 - :man_student: Studying to be a computer engineer.
 
 
